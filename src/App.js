@@ -13,7 +13,7 @@ function App() {
           </NavbarBrand>
         </Container>
       </Navbar>
-      Wing Kingdom!!!
+      Wing Kingdom!!!!!!
     </div>
   );
 }
