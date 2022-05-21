@@ -6,7 +6,7 @@ import reduxWoodsImg from '../assets/img/redux-woods.jpg';
 export const CAMPSITES = [
     {
         id: 0,
-        name: 'React Lake Campground',
+        name: 'The Highest Quality Organic, Free-Range Chicken In Town!!!',
         image: reactLakeImg,
         elevation: 1233,
         featured: false,
@@ -15,7 +15,7 @@ export const CAMPSITES = [
     },
     {
         id: 1,
-        name: 'Chrome River Campground ',
+        name: 'Relaxing Setting and Atmosphere!!!',
         image: chromeRiverImg,
         elevation: 877,
         featured: false,
@@ -24,7 +24,7 @@ export const CAMPSITES = [
     },
     {
         id: 2,
-        name: 'Breadcrumb Trail Campground',
+        name: 'Incredible Beer Selection!!!',
         image: breadCrumbImg,
         elevation: 2901,
         featured: false,
@@ -33,7 +33,7 @@ export const CAMPSITES = [
     },
     {
         id: 3,
-        name: 'Redux Woods Campground',
+        name: 'Arcade and Fun for the Whole Family!!!',
         image: reduxWoodsImg,
         elevation: 42,
         featured: true,
