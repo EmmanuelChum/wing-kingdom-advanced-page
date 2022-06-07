@@ -1,17 +1,19 @@
 import { Card, CardImg, CardImgOverlay, CardTitle } from 'reactstrap';
 
-const CampsiteCard = (props) => {
+const CampsiteCard = ({campsite}) => { //we used destructing here//
+    const {image, name} = campsite; //we used destructing here//
     return (
         <Card>
             <CardImg
                 width='100%'
-                src={props.campsite.image}
-                alt={props.campsite.name}
+                src={image}// destructuring//
+                alt={name} // destructuring//
             />
             <CardImgOverlay>
-                <CardTitle>{props.campsite.name}</CardTitle>
+                <CardTitle>{name}</CardTitle>
             </CardImgOverlay>
         </Card>
+        //destructuring//
     );
 }
 

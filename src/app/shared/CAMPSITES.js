@@ -6,12 +6,12 @@ import reduxWoodsImg from '../assets/img/redux-woods.jpg';
 export const CAMPSITES = [
     {
         id: 0,
-        name: 'The Highest Quality Organic, Free-Range Chicken In Town!!!',
+        name: 'The Highest Quality Organic, Free-Range Chicken Wings in Town!!!',
         image: reactLakeImg,
         elevation: 1233,
         featured: false,
         description:
-            'Nestled in the foothills of the Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers.'
+            'Quality matters, and at Wing Kingdom, we source our delicious Chickens from local farms, that breed Free-Range, Organic Chickens, Cockadoodle YUM!!!'
     },
     {
         id: 1,
@@ -20,7 +20,7 @@ export const CAMPSITES = [
         elevation: 877,
         featured: false,
         description:
-            'Spend a few sunny days and starry nights beneath a canopy of old-growth firs at this enchanting spot by the Chrome River.'
+            'Ambiance matters, when you are out on the town, you want to relax and just have a good time.  Leave the worries or work and stress at the door, find your peace at any of our state of the art locations, equipped with controlled lighting, industrial air-conditioning during the hot & summer, and a cozy warm fireplace during cold & winter months, you will feel right at home!'
     },
     {
         id: 2,
@@ -29,7 +29,7 @@ export const CAMPSITES = [
         elevation: 2901,
         featured: false,
         description:
-            'Let NuCamp be your guide to this off-the-beaten-path, hike-in-only campground.'
+            'Our Beer Selection is second to none, from domestic to imports, we just want to make sure your thirst is quenched, we will even drive you home ourselves (premium upcharge for uber services).'
     },
     {
         id: 3,
@@ -38,6 +38,6 @@ export const CAMPSITES = [
         elevation: 42,
         featured: true,
         description:
-            "You'll never want to leave this hidden gem, deep within the lush Redux Woods."
+            "Bring your kids, or bring out the kid in you!  With our state of the art arcade, with our massive collection, we entertainment fun for the whole gang!!!"
     }
 ];
