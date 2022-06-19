@@ -3,31 +3,31 @@ export const COMMENTS = [
         id: 0,
         campsiteId: 0,
         rating: 5,
-        text: 'The grass was indeed greener here than our last campsite.',
+        text: 'High quality wings and booze, cmon what is not to love?',
         author: 'Simon Hunt',
         date: '2018-10-25T16:30Z'
     },
     {
         id: 1,
         campsiteId: 0,
-        rating: 3,
-        text: 'This lone monkey kept following us back to our tent.',
+        rating: 5,
+        text: 'The prices are fair, and the quality is fairer... or fairest.  The quality is amazing, I just wanted to rhyme to sound cool.',
         author: 'Zandra Katherine',
         date: '2017-06-17T03:33Z'
     },
     {
         id: 2,
         campsiteId: 0,
-        rating: 4,
-        text: 'Do not feed the wildlife. They will follow you back to the tent.',
+        rating: 5,
+        text: 'Do not feed your pets, these bastards will not settle for anything less than this delicious organic chicken from WING KINGDOM!',
         author: 'Amy Keophilavong',
         date: '2019-02-18T18:12Z'
     },
     {
         id: 3,
         campsiteId: 0,
-        rating: 3,
-        text: "Avoid Sundays; couldn't relax and play my flute with all the noisy kids.",
+        rating: 3.5,
+        text: "I know this place is a family joint, but honestly I could do without the little kiddies running around on a Saturday night, when I'm hammered and chow'n down on these delicious wings.",
         author: 'Jean Luc',
         date: '2019-08-04T20:11Z'
     },
@@ -35,7 +35,7 @@ export const COMMENTS = [
         id: 4,
         campsiteId: 0,
         rating: 5,
-        text: "This has been our favorite campsite for over 7 years. It is an absolutely beautiful site. The hosts are very friendly and helpful. Don't forget to try out the lake.",
+        text: "This has been our favorite Wing restaurant for over 7 years. It is an absolutely beautiful site. The hosts are very friendly and helpful. Don't forget to try out the Insano Wings.",
         author: 'R. E. Osariemen',
         date: '2018-07-23T19:44Z'
     },
@@ -43,7 +43,7 @@ export const COMMENTS = [
         id: 5,
         campsiteId: 1,
         rating: 4,
-        text: "There's nothing more fun than setting up a tent in a rainstorm.",
+        text: "There's nothing more fun than getting hammered while binging on wings and chilling with your bros.",
         author: 'Juan Cortez',
         date: '2017-06-17T03:33Z'
     },
@@ -51,7 +51,7 @@ export const COMMENTS = [
         id: 6,
         campsiteId: 1,
         rating: 5,
-        text: 'I caught a world-record-breaking trout here on my last visit.',
+        text: 'I beat the world-record-breaking Insano Wing Challenge here on my last visit, the atmosphere was phenomenal!',
         author: 'McKenzie Sebastian',
         date: '2019-02-18T18:12Z'
     },
@@ -59,7 +59,7 @@ export const COMMENTS = [
         id: 7,
         campsiteId: 1,
         rating: 5,
-        text: 'The campground was beautiful, but the bugs could bite sometimes.',
+        text: 'During the insane summer heat, there is no better way to relax from all that heat, than by enjoying their massive industrial grade air-conditioning system.',
         author: 'Brennen Ech',
         date: '2019-08-04T20:11Z'
     },
@@ -67,7 +67,7 @@ export const COMMENTS = [
         id: 8,
         campsiteId: 1,
         rating: 4,
-        text: "Love the river but I didn't catch any fish.",
+        text: "I met my ex-wife here, and her sister my current wife, the fire place is totally romantic.",
         author: 'Amy Keophilavong',
         date: '2018-07-23T19:44Z'
     },
@@ -75,7 +75,7 @@ export const COMMENTS = [
         id: 9,
         campsiteId: 1,
         rating: 5,
-        text: 'A wonderful place to reconnect with nature.',
+        text: 'A wonderful place to reconnect with da boys.',
         author: 'Jordan Runn',
         date: '2019-08-04T20:11Z'
     },
@@ -83,15 +83,15 @@ export const COMMENTS = [
         id: 10,
         campsiteId: 2,
         rating: 5,
-        text: 'The Frozen Tundra is great place for family and friends camping!',
+        text: 'They have every kind of unique type and brand of Beer you can imagine, as an alcholic I absolutely LOVE THIS!',
         author: 'Olaf the Snowman',
         date: '2019-02-18T18:12Z'
     },
     {
         id: 11,
         campsiteId: 2,
-        rating: 1,
-        text: 'We had to leave about 2am to go back to the city because the quiet was just too much!',
+        rating: 5,
+        text: 'It sucks we had to leave about 2am because they were closing, we have never had so much debauchery and fun at a chicken joint!',
         author: 'Vincent and Mona Lisa Gambini',
         date: '2018-10-25T16:30Z'
     },
@@ -99,7 +99,7 @@ export const COMMENTS = [
         id: 12,
         campsiteId: 2,
         rating: 5,
-        text: 'The stars at night were a revelation!',
+        text: 'I drank myself under the table, my friend from AA Olaf was absolutely right, Beer and Fun!',
         author: 'Ann Dabramov',
         date: '2018-07-23T19:44Z'
     },
@@ -107,7 +107,7 @@ export const COMMENTS = [
         id: 13,
         campsiteId: 2,
         rating: 4,
-        text: 'Great scenic hiking trails but it was challenging to go up the mountain.',
+        text: 'My dad was an alcoholic and I can definitely see myself as one if I keep coming here, the happy hour is extra happy.',
         author: 'Amy Keophilavong',
         date: '2018-10-25T16:30Z'
     },
@@ -115,7 +115,7 @@ export const COMMENTS = [
         id: 14,
         campsiteId: 2,
         rating: 5,
-        text: 'Perfect scenery for a smoked kipper breakfast with friends!',
+        text: 'Perfect scenery for getting hammered and delicious wings, with friends!',
         author: 'Dave Lister',
         date: '2019-08-04T20:11Z'
     },
@@ -123,7 +123,7 @@ export const COMMENTS = [
         id: 15,
         campsiteId: 3,
         rating: 4,
-        text: 'Just remember a bear can run and climb faster than you...',
+        text: 'Table Hockey when you are absolutely plastered is pretty freaking sweet',
         author: 'Markell Richards',
         date: '2017-06-17T03:33Z'
     },
@@ -139,15 +139,15 @@ export const COMMENTS = [
         id: 17,
         campsiteId: 3,
         rating: 5,
-        text: 'What a magnificent view!',
+        text: 'Awesome games, and even awesomer prizes!',
         author: 'Tinus Lorvaldes',
         date: '2018-10-25T16:30Z'
     },
     {
         id: 18,
         campsiteId: 3,
-        rating: 4,
-        text: 'The sites are huge! We felt like we were in the middle of nowhere, in a good way.',
+        rating: 5,
+        text: 'The games have great replay quality, anyone can have fun here, even anyone.',
         author: 'Chloe Haskins',
         date: '2017-06-17T03:33Z'
     },
@@ -155,8 +155,8 @@ export const COMMENTS = [
         id: 19,
         campsiteId: 3,
         rating: 5,
-        text: "The photos don't do justice to the beauty of this place.",
-        author: 'Minae Lee',
+        text: "The photos don't do justice to the beauty of this place, I once saw two chicks making out, it was freaking sweet.",
+        author: 'Peter Griffin',
         date: '2019-02-18T18:12Z'
     }
 ];

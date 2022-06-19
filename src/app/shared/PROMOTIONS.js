@@ -9,11 +9,11 @@ import asyncImg from '../assets/img/mount-promise.jpg';
 export const PROMOTIONS = [
     {
         id: 0,
-        name: 'Mountain Adventure',
+        name: 'Beerfest EVERYDAY!!!',
         image: breadCrumbImg,
         featured: true,
         description:
-            'Book a 5-day mountain trek with a seasoned outdoor guide! Fly fishing equipment and lessons provided.'
+            'Come in during happy hour and quench your thirst for HALF OFF ALL BEERS from 5pm - 8pm!!!'
     },
     {
         id: 1,
