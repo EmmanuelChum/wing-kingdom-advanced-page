@@ -13,7 +13,7 @@ const CommentsList = ({ campsiteId }) => {
                 })}
             </Col>
         );
-    }
+    } 
     return (
         <Col md='5' className='m-1'>
             There are no comments for this campsite yet.
