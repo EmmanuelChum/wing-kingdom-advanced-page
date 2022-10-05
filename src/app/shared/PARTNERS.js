@@ -6,34 +6,34 @@ import nodeLogo from '../assets/img/node-logo.png';
 export const PARTNERS = [
     {
         id: 0,
-        name: 'Bootstrap Outfitters',
+        name: 'Level 1',
         image: bootStrapLogo,
         featured: false,
         description:
-            "Bootstrap Outfitters supplies you with the gear you need at prices you can't beat."
+            "Just a sweet kiss of heat, don't be a baby, even your grandma can handle it, wimp."
     },
     {
         id: 1,
-        name: 'Git Out Expeditions',
+        name: 'Level Dos',
         image: gitLogo,
         featured: false,
         description:
-            'Join Git Out Expeditions to explore new horizons with a group of other adventurers!'
+            "Okay, we'll admit, things are starting to heat up, no big deal, but a real man can still handle it, this ain't nothin but a chicken wang."
     },
     {
         id: 2,
-        name: 'Mongo Fly Shop',
+        name: 'Level III',
         image: mongoLogo,
         featured: false,
         description:
-            'Need a new fishing pole, a tacklebox, or flies of all kinds? Stop by Mongo Fly Shop.'
+            "I'm not crying, are you crying?  We understand if you want to throw in that towel now, we won't judge you.  But your family and friends might, and your crush who's secretly sitting in the background.  Hehe no pressure."
     },
     {
         id: 3,
-        name: 'Node Outdoor Apparel',
+        name: 'Level FIVE Alarm!!!',
         image: nodeLogo,
         featured: true,
         description:
-            'From polar fleeces to swimsuits, hiking boots to waders, a visit to Node will be sure to get you covered.'
+            "Yeah... we went ahead and just skipped to 5, anything lower wouldn't do this flavor justice.  We're not calling you insane for doing this, but you're pretty much insane.  It's not that we don't believe in you but, just to be safe ...SIGN THAT WAIVER!!!"
     }
 ];
