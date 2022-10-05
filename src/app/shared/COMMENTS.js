@@ -19,7 +19,7 @@ export const COMMENTS = [
         id: 2,
         campsiteId: 0,
         rating: 5,
-        text: 'Do not feed your pets, these bastards will not settle for anything less than this delicious organic chicken from WING KINGDOM!',
+        text: 'Do not feed your pets, these brats will not settle for anything less than this delicious organic chicken from WING KINGDOM!',
         author: 'Amy Keophilavong',
         date: '2019-02-18T18:12Z'
     },
@@ -27,7 +27,7 @@ export const COMMENTS = [
         id: 3,
         campsiteId: 0,
         rating: 3.5,
-        text: "I know this place is a family joint, but honestly I could do without the little kiddies running around on a Saturday night, when I'm hammered and chow'n down on these delicious wings.",
+        text: "I know this place is a family joint, but honestly I could do without the little kiddos running around on a Saturday night, when I'm hammered and chow'n down on these delicious wings.",
         author: 'Jean Luc',
         date: '2019-08-04T20:11Z'
     },
@@ -51,7 +51,7 @@ export const COMMENTS = [
         id: 6,
         campsiteId: 1,
         rating: 5,
-        text: 'I beat the world-record-breaking Insano Wing Challenge here on my last visit, the atmosphere was phenomenal!',
+        text: 'I beat the local record for the Insano Wing Challenge here on my last visit, the atmosphere was phenomenal, the air ELECTRIC!!!',
         author: 'McKenzie Sebastian',
         date: '2019-02-18T18:12Z'
     },
@@ -91,7 +91,7 @@ export const COMMENTS = [
         id: 11,
         campsiteId: 2,
         rating: 5,
-        text: 'It sucks we had to leave about 2am because they were closing, we have never had so much debauchery and fun at a chicken joint!',
+        text: 'It sucks we had to leave at about 2am because they were closing, we have never had so much debauchery and fun at a chicken joint!',
         author: 'Vincent and Mona Lisa Gambini',
         date: '2018-10-25T16:30Z'
     },

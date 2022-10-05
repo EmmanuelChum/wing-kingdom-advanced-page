@@ -30,7 +30,7 @@ export const PARTNERS = [
     },
     {
         id: 3,
-        name: 'Level FIVE Alarm!!!',
+        name: 'Level FIVE Alarm!!!  The infamous INSANO WINGS!!!',
         image: nodeLogo,
         featured: false,
         description:
